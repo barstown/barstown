@@ -13,38 +13,39 @@ accompanying GitHub [repository](https://github.com/github/how-engineering-commu
 * A lack of planning on your part does not constitute an emergency on mine.
 
 ### What drives you nuts?
-* Inconsistency raises questions and uncertainty.
-* Repeating myself. At best, my advice was forgotten; at worst, it was intentionally ignored.
-* Breaking established processes reduces efficiency and increases errors.
+* Inconsistency.
+* Repeating myself.
+* Breaking established processes which reduces efficiency and increases errors.
 
 ### What are your quirks?
 * I tend to over-explain when I am passionate about a topic.
 * I am a proud nerd. My passion for learning and playing with open-source software technologies not only provides personal satisfaction but often translates to work. Ask me about my hobbies and interests, and feel free to share yours.
-* Instant messaging should not be a source of escalation or referenceable decisions. People use it as an interrupt-based escalation and means to create false urgency when other communication streams such as tickets, notifications, and emails are poorly managed.
+* Instant messaging should not be a source of escalation or referenceable decisions.
 
 ### What are some things that people might misunderstand about you that you should clarify?
-* My lack of reaction should not be taken as a lack of care. Being reactionary is rarely advantageous.
+* My lack of reaction should not be taken as a lack of care.
 
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
-* Be reliable, consistent, and predictable by delivering tasks on time, adhering to workplace best practices, and providing all necessary information up front when requesting work.
+* Be reliable, consistent, and predictable.
 * Respect the time of my team and I.
+* Be honest and candid.
 
 ### What do you wish colleagues didn’t do?
-* Don't tag me in every chat message.
 * [No hello](https://nohello.net/en/). Treat instant messaging as asynchronous communication — state your needs or information directly without expecting an immediate response.
 * Avoid asking for unplanned, "under-the-table" work due to poor planning — it's disruptive.
 
 ### How can people earn an extra gold star with you?
-* Trust my expertise. Questions are encouraged, but telling me how to perform my job is disrespectful.
+* Ask questions to learn why we operate the way that we do. 
+* Be bold and be willing to take calculated risks.
 
 ## About my interactions
 
 ### How do you coach people to do their best work and develop their talents?
 * Be curious, and dedicate time to learning.
 * Share educational resources, deals, and encourage reading often.
-* Always do your best and be proud of your work.
+* Take pride in your work.
 
 ### What’s the best way to communicate with you?
 * Written communication first, followed by scheduling a brief video or phone call to clarify any unclear points if necessary.
