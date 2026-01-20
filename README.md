@@ -1,62 +1,53 @@
-# Human User Guide for Kyle Barstow
+# Kyle Barstow
 
-## Reference
-This Human User Guide and some of the concepts within it were directly inspired by some of the content
-shared in this GitHub blog post titled
-[How to communicate like a GitHub engineer](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), and the
-accompanying GitHub [repository](https://github.com/github/how-engineering-communicates).
+![](https://img.shields.io/github/followers/barstown?label=Followers&style=social)
+![](https://img.shields.io/github/stars/barstown?style=social)
+![](https://komarev.com/ghpvc/?username=barstown&color=orange)
 
-## About me
+“I automate so that I've got more time to do cool stuff.”
 
-### What are some honest, unfiltered things about you?
-* I work to live, not live to work, even though many of my hobbies and interests overlap with my career.
-* A lack of planning on your part does not constitute an emergency on mine.
+👋 Welcome to my GitHub! I’m passionate about all things FOSS, Linux,
+Kubernetes, my home lab, exploring new technologies, and constantly expanding my
+skill set. I’m not super‑active across many open‑source projects right now, but
+I love sharing what I’m learning and connecting with fellow creators.
 
-### What drives you nuts?
-* Inconsistency.
-* Repeating myself.
-* Breaking established processes which reduces efficiency and increases errors.
 
-### What are your quirks?
-* I tend to over-explain when I am passionate about a topic.
-* I am a proud nerd. My passion for learning and playing with open-source software technologies not only provides personal satisfaction but often translates to work. Ask me about my hobbies and interests, and feel free to share yours.
-* Instant messaging should not be a source of escalation or referenceable decisions.
+🌱 What I’m Currently Learning
 
-### What are some things that people might misunderstand about you that you should clarify?
-* My lack of reaction should not be taken as a lack of care.
+| Topic         | Resources     |
+| ------------- | ------------- |
+| Python        | In-person classes, Udemy |
+| Terraform     | Home lab experiementation, informal online reading |
+| FluxCD        | Official docs, onedr0p and bo0tzz repos, home lab |
 
-## About my colleagues
 
-### What qualities do you particularly value in your colleagues?
-* Be reliable, consistent, and predictable.
-* Respect the time of my team and I.
-* Be honest and candid.
+📖 My Reading List
 
-### What do you wish colleagues didn’t do?
-* [No hello](https://nohello.net/en/). Treat instant messaging as asynchronous communication — state your needs or information directly without expecting an immediate response.
-* Avoid asking for unplanned, "under-the-table" work due to poor planning — it's disruptive.
+| Title | Authors | Completion Date |
+| ----- | ------- | --------------- |
+| The 5am Club | Robin Sharma | On Deck |
+| Enshitification | Cory Doctorow | WIP |
+| The Staff Engineer's Path | Tanya Reilly | WIP |
+| Staff Engineer | Will Larson | 2025-08 |
+| Wiring the Winning Organization | Gene Kim, Steve Spear | 2024-12 |
+| Making Work Visible | Dominica Degrandis | 2024-08 |
+| How to Win Friends and Influence People | Dale Carnegie | 2024-06 |
+| Getting Things Done | David Allen | 2024-06 |
+| Atomic Habits | James Clear  | 2024-05 |
+| The DevOps Handbook | Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren | 2024-05 |
+| The Unicorn Project | Gene Kim | 2023-09 |
+| Unf*ck Your Intimacy | Faith G. Harper | 2023-08
+| The Phoenix Project | Gene Kim, Kevin Behr, George Spafford | 2023-08 |
+| The Effective Manager | Mark Horstman | 2022-10 |
 
-### How can people earn an extra gold star with you?
-* Ask questions to learn why we operate the way that we do. 
-* Be bold and be willing to take calculated risks.
 
-## About my interactions
+🎉 Fun Extras
 
-### How do you coach people to do their best work and develop their talents?
-* Be curious, and dedicate time to learning.
-* Share educational resources, deals, and encourage reading often.
-* Take pride in your work.
-
-### What’s the best way to communicate with you?
-* Written communication first, followed by scheduling a brief video or phone call to clarify any unclear points if necessary.
-
-### What’s the best way to convince you to do something?
-* Show me data, examples, or write up a use case, pointing out the best, likely, and worst cases. Wanting something done because you "just want it that way" is not a sufficient justification to divert time away from more pressing tasks.
-
-### How do you like to give feedback?
-* I give feedback promptly after observation.
-* Include an example that supports the feedback being given.
-
-### How do you like to get feedback?
-* Early and often.
-* From anyone affected by my performance or behavior.
+I'm also:
+- A former ECU tuner for early 90's Nissans
+- A former endurance racing pit crew member (24 Hours of Lemons, AER, ChumpCar)
+- A novice woodworker
+- A part-time farmer
+- A tool hoarder
+- An animal lover
+- Not afraid to take on any home repair or project
