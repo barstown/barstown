@@ -12,7 +12,7 @@ skill set. I’m not super‑active across many open‑source projects right now
 I love sharing what I’m learning and connecting with fellow creators.
 
 
-🌱 What I’m Currently Learning
+## 🌱 What I’m Currently Learning
 
 | Topic         | Resources     |
 | ------------- | ------------- |
@@ -21,7 +21,7 @@ I love sharing what I’m learning and connecting with fellow creators.
 | FluxCD        | Official docs, onedr0p and bo0tzz repos, home lab |
 
 
-📖 My Reading List
+## 📖 My Reading List
 
 | Title | Authors | Completion Date |
 | ----- | ------- | --------------- |
@@ -41,7 +41,7 @@ I love sharing what I’m learning and connecting with fellow creators.
 | The Effective Manager | Mark Horstman | 2022-10 |
 
 
-🎉 Fun Extras
+## 🎉 Fun Extras
 
 I'm also:
 - A former ECU tuner for early 90's Nissans
